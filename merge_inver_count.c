@@ -1,3 +1,5 @@
+//To find the INVERSION COUNT of a Merge Sort Algorithm
+
 #include<stdio.h>
 //using namespace std;
 int merge_sort(int arr[], int, int);
