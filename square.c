@@ -1,3 +1,5 @@
+//To find the squares of numbers from n to m
+
 #include<stdio.h>
 print_square(int n, int m)
 {
