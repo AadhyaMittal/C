@@ -1,3 +1,4 @@
+//A C program to implement BASE64 Encoder
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
@@ -5,9 +6,6 @@
 #include <assert.h>
 #include <limits.h>
 #include <stdbool.h>
-/*
- * Complete the function below.
- */
 char* encode(char* input)
 {
     int len, x, y, z, i, m, n, nzero, num = 0, j = 0, rem , sum;
