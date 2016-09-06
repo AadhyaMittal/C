@@ -1,3 +1,5 @@
+//A C program to implement MERGE SORT ALGORITHM 
+
 #include<stdio.h>
 //using namespace std;
 void merge_sort(int arr[], int, int);
